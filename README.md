@@ -80,7 +80,7 @@ Changes your PED to the given model (admins only).
 - Example:
   - `/setped s_m_y_cop_01`
 - If the model is invalid or not found, the player is notified.
-  Official web for PED Models: https://docs.fivem.net/docs/game-references/ped-models/
+- Official web for PED Models: https://docs.fivem.net/docs/game-references/ped-models/
 
 ### `/revertped`
 
